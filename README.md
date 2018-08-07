@@ -1,4 +1,4 @@
-Design_Publish_Raspberrypi_Proximitysensor_only_changeofState
+Design_Publish_Raspberrypi_Proximitysensor_only_change_of_State
 =============================================================
 
 Design a setup to publish data from proximity sensor, only when there is change
